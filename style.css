@@ -36,3 +36,8 @@ body {
       font-style: italic;
       color: #333;
     }
+      img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
